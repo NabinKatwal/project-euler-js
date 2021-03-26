@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif;
+}
+
+#question{
+    font-size: 34px;
+}
+
+#answer{
+    font-size: 30px;
+    border:2px solid black;
+    border-radius: 4px;
+    display: inline;
+    background: blanchedalmond;
+    color: red;
+}

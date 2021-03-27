@@ -12,6 +12,10 @@ body{
 #answer{
     border: 2px solid burlywood;
     display: inline;
+    font-size: 24px;
+    border-radius: 7px;
+    background-color: coral;
+    color: #f4f4f4;
 }
 
 
